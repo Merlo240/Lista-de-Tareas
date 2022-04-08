@@ -12,3 +12,8 @@
     align-items: center;
     justify-content: space-between;
 }
+fa-icon{
+    position: relative;
+  float: right;
+  color:red;
+}
